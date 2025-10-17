@@ -1,0 +1,9 @@
+{
+  "name": "BossNotifier",
+  "version": "1.0.0",
+  "author": "YourName",
+  "license": "MIT",
+  "sptVersion": "3.9.0",
+  "main": "BossNotifier.dll",
+  "akiVersion": ">=3.8.0"
+}
